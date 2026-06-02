@@ -42,3 +42,4 @@ Example categories:
 6. Evaluate model accuracy
 7. Predict categories for new text inputs
 
+<img width="1914" height="851" alt="Screenshot 2026-06-02 132840" src="https://github.com/user-attachments/assets/e72cdf50-a9ff-4e1b-b285-588a4dffaba8" />
